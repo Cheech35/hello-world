@@ -55,3 +55,6 @@ Food | Good/Not Good
 -----|--------------
 Lasagna | Good
 Liver | Not Good
+Fried Chicken | Good
+Avocados | Terrible
+Apples | ~~Not~~ Good

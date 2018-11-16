@@ -28,6 +28,7 @@ https://www.google.com
 This is code: `<test>`
 
 ### Syntax Highlighting
+#### JavaScript
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
@@ -35,6 +36,7 @@ function fancyAlert(arg) {
   }
 }
 ```
+#### Python
 ```python
 def foo():
     if not bar:

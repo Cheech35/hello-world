@@ -1,6 +1,21 @@
 # hello-world
 *Markdown* is **neat**
 
+## Table of Contents
+- [hello-world](#hello-world)
+	- [Table of Contents](#table-of-contents)
+	- [Header 1](#header-1)
+	- [Header 2](#header-2)
+		- [Image](#image)
+		- [Link](#link)
+		- [Quote](#quote)
+		- [Inline Code](#inline-code)
+		- [Syntax Highlighting](#syntax-highlighting)
+			- [JavaScript](#javascript)
+			- [Python](#python)
+		- [Task Lists](#task-lists)
+		- [Tables](#tables)
+
 ## Header 1
 * Bananas
 * Bread

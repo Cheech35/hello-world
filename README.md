@@ -14,5 +14,6 @@
    1. Step 3b
 
 ### Nexest Header
+![Precious!](/gollum-bagel.jpg)
 
 

@@ -52,7 +52,7 @@ def foo():
 
 ### Tables
 Food | Good/Not Good
------|-------------
+-|-
 Lasagna | Good
 Liver | Not Good
 Fried Chicken | Good

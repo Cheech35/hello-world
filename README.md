@@ -18,7 +18,7 @@
 ![Precious!](/gollum-bagel.jpg)
 
 ### Link
-https://www.google.com
+https://www.google.com - Yay!
 [Google](https://www.google.com)
 
 ### Quote

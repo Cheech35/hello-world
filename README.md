@@ -16,7 +16,7 @@
 		- [Task Lists](#task-lists)
 		- [Tables](#tables)
 
-## Header 1
+## Lists
 * Bananas
 * Bread
   * Rye
@@ -28,7 +28,7 @@
    1. Step 3a
    1. Step 3b
 
-## Header 2
+## Things
 ### Image
 ![Precious!](/gollum-bagel.jpg)
 

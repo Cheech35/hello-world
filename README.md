@@ -1,7 +1,7 @@
 # hello-world
 *Markdown* is **neat**
 
-## Next Header
+## Header 1
 * Bananas
 * Bread
   * Rye
@@ -13,7 +13,7 @@
    1. Step 3a
    1. Step 3b
 
-## Nexest Header
+## Header 2
 ### Image
 ![Precious!](/gollum-bagel.jpg)
 
@@ -42,3 +42,9 @@ def foo():
     if not bar:
         return True
 ```
+
+### Task Lists
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item

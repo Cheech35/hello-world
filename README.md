@@ -14,16 +14,28 @@
    1. Step 3b
 
 ## Nexest Header
-###Image
+### Image
 ![Precious!](/gollum-bagel.jpg)
 
-###Link
+### Link
 https://www.google.com
 [Google](https://www.google.com)
 
-###Quote
+### Quote
 > I'd buy that for a dollar!
 
-###Inline Code
+### Inline Code
 This is code: `<test>`
 
+### Syntax Highlighting
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
+def foo():
+    if not bar:
+        return True
